@@ -5,7 +5,9 @@ JamesSuryaPutra
 
 Current notebook projects:
 - BigQuery Data Generation
+- K-Means Clustering
 - LightGlue DISK Image Matching
+- Lyric Text Translation
 - MobileNet Multimodal Classification
 - OWL-ViT Image Text Query Interpretation
 - Transfer Learning & Fine Tuning
