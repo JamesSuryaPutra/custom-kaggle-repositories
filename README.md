@@ -10,6 +10,7 @@ Current notebook projects:
 - Lyric Text Translation
 - MobileNet Multimodal Classification
 - OWL-ViT Image Text Query Interpretation
+- PaliGemma JAX
 - Transfer Learning & Fine Tuning
 
 Current dataset projects:
