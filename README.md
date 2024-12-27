@@ -11,6 +11,7 @@ Current notebook projects:
 - MobileNet Multimodal Classification
 - OWL-ViT Image Text Query Interpretation
 - PaliGemma JAX Image Recognition
+- Regression with an Insurance Dataset
 - Speech Recognition
 - Transfer Learning & Fine Tuning
 
@@ -19,3 +20,4 @@ Current dataset projects:
 - FIFA World Cup Finals
 - Global Rice Exports & Imports
 - UK Car Sales
+- US Used Car Prices
