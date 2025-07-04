@@ -1,0 +1,28 @@
+South Australia Car Fuel Economy Statistics,,,,,,,,,
+Manufacturer,Model,Class,Production year,Price (AUD),Layout,Powertrain,Fuel type,Location,Efficiency (mpg-US)
+Holden,Barina Spark CD,Hatchback,2010,"$7,990",FF,1.2 L I4,Gasoline,Enfield,42
+Ford,Mondeo Titanium 2.0 TDCi,Sedan,2011,"$8,999",FF,2.0 L I4 Turbocharged,Diesel,Klemzig,42
+Mazda,Mazda2 Neo,Hatchback,2009,"$9,880",FF,1.5 L I4,Gasoline,West Croydon,35
+Alfa Romeo,Giulietta Progression 1.4 TB,Hatchback,2013,"$9,999",FF,1.4 L I4 Turbocharged,Gasoline,Seaford,37
+Volkswagen,Golf V GTI,Hatchback,2008,"$10,990",FF,2.0 L I4 Turbocharged,Gasoline,West Croydon,25
+Holden,Commodore Omega,Sedan,2010,"$10,990",FR,3.0 L V6,Gasoline,West Croydon,25
+Ford,Focus Ambiente,Hatchback,2012,"$10,999",FF,1.6 L I4,Gasoline,Seaford,36
+Hyundai,Accent Active Hatchback,Hatchback,2013,"$10,999",FF,1.4 L I4,Gasoline,Seaford,37
+Renault,Clio Expression,Hatchback,2017,"$10,999",FF,1.2 L I4 Turbocharged,Gasoline,Seaford,45
+Holden,Cruze CD Wagon,Wagon,2016,"$11,990",FF,1.8 L I4,Gasoline,Klemzig,32
+Holden,Barina RS,Hatchback,2014,"$12,990",FF,1.4 L I4 Turbocharged,Gasoline,Klemzig,36
+Hyundai,ix35 Elite 4x4,SUV,2011,"$13,999",4WD,2.0 L I4 Turbocharged,Diesel,Klemzig,29
+BMW,X5 xDrive30d Executive,SUV,2009,"$15,880",4WD,3.0 L I6 Turbocharged,Diesel,West Croydon,27
+Toyota,Corolla Ascent Hatchback,Hatchback,2016,"$16,990",FF,1.8 L I4,Gasoline,Klemzig,36
+Mitsubishi,Pajero GLX-R 4x4,SUV,2014,"$17,999",4WD,3.2 L I4 Turbocharged,Diesel,Prospect,28
+Hyundai,i30 Active X 1.6 CRDi,Hatchback,2016,"$19,989",FF,1.6 L I4 Turbocharged,Diesel,Enfield,51
+Honda,Civic VTi-LX,Sedan,2016,"$22,990",FF,1.5 L I4 Turbocharged,Gasoline,Pooraka,39
+Volkswagen,Caddy III SWB 220 TSI,Panel Van,2017,"$23,989",FF,1.4 L I4 Turbocharged,Gasoline,Enfield,38
+Mercedes-Benz,E200,Sedan,2014,"$24,990",FR,2.0 L I4 Turbocharged,Gasoline,Beverley,37
+Holden,Colorado Z71,Utility Truck,2015,"$24,999",4WD,2.8 L I4 Turbocharged,Diesel,Klemzig,26
+Ford,Puma ST-Line,SUV,2020,"$25,990",FF,1.0 L I3 Turbocharged,Gasoline,Enfield,44
+Ford,Ranger XL 3.2 4x4,Utility Truck,2020,"$27,989",4WD,3.2 L I5 Turbocharged,Diesel,Cheltenham,27
+Subaru,Liberty 2.5 Premium,Sedan,2019,"$27,990",4WD,2.5 L F4,Gasoline,Glenelg,32
+Mercedes-Benz,B180,Minivan,2019,"$28,990",FF,1.3 L I4 Turbocharged,Gasoline,Mount Gambier,42
+Toyota,HiAce LWB Exterior Pack,Panel Van,2019,"$37,989",FR,2.8 L I4 Turbocharged,Diesel,Enfield,28
+Toyota,RAV4 Edge 4x4,SUV,2020,"$45,880",4WD,2.5 L I4,Gasoline,Prospect,32

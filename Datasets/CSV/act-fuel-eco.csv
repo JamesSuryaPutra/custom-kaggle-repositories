@@ -1,0 +1,28 @@
+Australian Capital Territory Car Fuel Economy Statistics,,,,,,,,,
+Manufacturer,Model,Class,Production year,Price (AUD),Layout,Powertrain,Fuel type,Location,Efficiency (mpg-US)
+Mercedes-Benz,A160 Classic,Hatchback,2002,"$5,990",FF,1.6 L I4,Gasoline,Fyshwick,31
+Ford,Focus XR5 Turbo,Hatchback,2010,"$7,999",FF,2.5 L I5 Turbocharged,Gasoline,Fyshwick,25
+Mitsubishi,Triton GLX Dual Cab 4x4,Utility Truck,2007,"$8,670",4WD,3.2 L I4 Turbocharged,Diesel,Phillip,26
+Mazda,Mazda3 Maxx Sport,Sedan,2013,"$8,888",FF,2.0 L I4,Gasoline,Phillip,27
+Holden,Commodore Ute Omega,Coupe Utility,2009,"$13,990",FR,3.6 L V6,Gasoline,Fyshwick,22
+Škoda,Fabia III 70 TSI,Hatchback,2020,"$14,100",FF,1.0 L I3 Turbocharged,Gasoline,Phillip,52
+Subaru,Liberty 3.6 R,Sedan,2015,"$14,670",4WD,3.6 L F6,Gasoline,Phillip,24
+Audi,Q3 2.0 TDI quattro,SUV,2013,"$14,670",4WD,2.0 L I4 Turbocharged,Diesel,Phillip,41
+Ford,Mondeo Ambiente Wagon,Wagon,2015,"$14,990",FF,2.0 L I4 Turbocharged,Gasoline,Fyshwick,28
+Kia Motors,Sportage Si 4x2,SUV,2016,"$15,990",FF,2.0 L I4,Gasoline,Fyshwick,30
+Kia Motors,Picanto GT-Line,Hatchback,2020,"$17,670",FF,1.2 L I4,Gasoline,Phillip,41
+Hyundai,i30 SR,Hatchback,2017,"$19,670",FF,1.6 L I4,Gasoline,Phillip,31
+Hyundai,Veloster SR Turbo,Hatchback,2015,"$19,990",FF,1.6 L I4 Turbocharged,Gasoline,Phillip,33
+Hyundai,Sonata Active,Sedan,2019,"$20,950",FF,2.0 L I4 Turbocharged,Gasoline,Queanbeyan,28
+Toyota,RAV4 GX 4x4,SUV,2018,"$23,888",4WD,2.5 L I4,Gasoline,Phillip,28
+Subaru,Outback 2.5 L Premium,SUV,2016,"$24,990",4WD,2.5 L F4,Gasoline,Phillip,32
+Toyota,Camry SX,Sedan,2018,"$26,990",FF,2.5 L I4,Gasoline,Hume,28
+Ford,Everest Trend 4x4,SUV,2019,"$37,990",4WD,2.0 L I4 Turbocharged,Diesel,Hume,33
+Honda,Civic VTi-LX Hatchback,Hatchback,2021,"$38,900",FF,1.5 L I4 Turbocharged,Gasoline,Phillip,37
+Kia Motors,Sorento GT-Line 4x4,SUV,2020,"$39,600",4WD,2.2 L I4 Turbocharged,Diesel,Phillip,33
+Nissan,Navara ST-X Crew Cab 4x4,Utility Truck,2021,"$42,800",4WD,2.3 L I4 Twin Turbo,Diesel,Phillip,30
+Toyota,Hilux Double Cab 4x4,Utility Truck,2020,"$52,233",4WD,3.0 L I4 Turbocharged,Diesel,Phillip,27
+Honda,CR-V e:HEV RS 4x2,SUV,2023,"$52,800",FF,2.0 L I4 w/Single AC Motor,Hybrid,Phillip,43
+Lexus,LBX,SUV,2023,"$55,980",FF,1.5 L I4 w/Single AC Motor,Hybrid,Phillip,47
+Kia Motors,Stinger GT,Grand Tourer,2023,"$60,990",FR,3.3 L V6 Turbocharged,Gasoline,Phillip,25
+Land Rover,Range Rover Velar P250 S,SUV,2020,"$67,800",4WD,2.0 L I4 Turbocharged,Gasoline,Phillip,31

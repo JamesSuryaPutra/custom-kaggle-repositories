@@ -1,0 +1,28 @@
+Tasmania Car Fuel Economy Statistics,,,,,,,,,
+Manufacturer,Model,Class,Production year,Price (AUD),Layout,Powertrain,Fuel type,Location,Efficiency (mpg-US)
+Alfa Romeo,156 2.0 JTS,Sedan,2003,"$7,990",FF,2.0 L I4,Gasoline,North Hobart,27
+Mercedes-Benz,S430,Sedan,2004,"$9,990",FR,4.3 L V8,Gasoline,North Hobart,19
+Ford,Falcon XT EcoBoost,Sedan,2013,"$9,990",FR,2.0 L I4 Turbocharged,Gasoline,North Hobart,29
+Volkswagen,Touareg I V6 TDI 4MOTION,SUV,2010,"$9,990",4WD,3.0 L V6 Turbocharged,Diesel,Perth,22
+Mercedes-Benz,CLK350 Avantgarde,Coupe,2005,"$12,950",FR,3.5 L V6,Gasoline,Moonah,24
+Holden,Rodeo LX V6 Chassis Crew Cab,Chassis Cab,2004,"$12,990",FR,3.6 L V6,Gasoline,South Burnie,18
+BMW,X5 3.0d Executive 4x4,SUV,2007,"$12,990",4WD,3.0 L I6 Turbocharged,Diesel,North Hobart,27
+Honda,CR-V Limited Edition 4x4,SUV,2012,"$14,990",4WD,2.4 L I4,Gasoline,Youngtown,24
+Jeep,Cherokee Longitude 4x4,SUV,2014,"$15,990",4WD,3.2 L V6,Gasoline,Devonport,24
+Honda,Odyssey VTi-L,Minivan,2014,"$15,990",FF,2.4 L I4,Gasoline,Derwent Park,30
+Volkswagen,Polo VI 70 TSI Trendline,Hatchback,2018,"$16,999",FF,1.0 L I3 Turbocharged,Gasoline,Glenorchy,47
+Isuzu,D-Max LS Dual Cab 4x2,Utility Truck,2009,"$17,990",FR,3.0 L I4 Turbocharged,Diesel,Derwent Park,26
+MG,ZS Excite 4x2,SUV,2022,"$17,990",FF,1.5 L I4,Gasoline,Devonport,33
+Škoda,Octavia III Estate RS 220,Wagon,2016,"$18,888",FF,2.0 L I4 Turbocharged,Gasoline,Hobart,37
+Toyota,Hilux SR5 4x4,Utility Truck,2010,"$18,990",4WD,3.0 L I4 Turbocharged,Diesel,Invermay,28
+Hyundai,Tucson Elite 4x2,SUV,2016,"$19,990",FF,2.0 L I4,Gasoline,Hobart,30
+Kia Motors,Cerato S,Sedan,2021,"$21,950",FF,2.0 L I4,Gasoline,Moonah,32
+Renault,Arkana Zen,SUV,2021,"$22,990",FF,1.3 L I4 Turbocharged,Gasoline,North Hobart,39
+Chery,Omoda 5 EX 4x2,SUV,2023,"$24,950",FF,1.5 L I4 Turbocharged,Gasoline,Moonah,34
+Holden,Acadia LT 4x2,SUV,2019,"$26,950",FF,3.6 L V6,Gasoline,Moonah,26
+Audi,A3 35 TFSI Sportback,Hatchback,2018,"$26,990",FF,1.4 L I4 Turbocharged,Gasoline,Hobart,47
+Hyundai,iLoad 3S Liftback,Panel Van,2018,"$27,950",FR,2.5 L I4 Turbocharged,Diesel,Moonah,27
+Hyundai,i20 N,Hatchback,2021,"$31,990",FF,1.6 L I4 Turbocharged,Gasoline,Devonport,34
+Toyota,Camry Ascent Hybrid,Sedan,2021,"$36,990",FF,2.5 L I4 w/Single AC Motor,Hybrid,Hobart,56
+Toyota,Yaris Cross Urban Hybrid 4x2,SUV,2023,"$42,490",FF,1.5 L I3 w/Single AC Motor,Hybrid,Hobart,62
+Lexus,UX200 F Sport 4x2,SUV,2023,"$52,990",FF,2.0 L I4,Gasoline,Hobart,41

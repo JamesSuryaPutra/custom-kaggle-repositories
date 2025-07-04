@@ -1,0 +1,28 @@
+Victoria Car Fuel Economy Statistics,,,,,,,,,
+Manufacturer,Model,Class,Production year,Price (AUD),Layout,Powertrain,Fuel type,Location,Efficiency (mpg-US)
+Mercedes-Benz,B180 CDI,Minivan,2008,"$7,800",FF,1.7 L I4,Gasoline,Murrumbeena,38
+Holden,Captiva 5 4x2,SUV,2012,"$7,990",FF,2.4 L I4,Gasoline,Warrnambool,27
+Nissan,Dualis Ti 4x2,SUV,2012,"$9,990",FF,2.0 L I4,Gasoline,Williamstown N.,29
+Suzuki,Swift GLX,Hatchback,2011,"$9,990",FF,1.4 L I4,Gasoline,Moorabbin,38
+Mitsubishi,Mirage LS,Hatchback,2016,"$9,990",FF,1.2 L I3,Gasoline,Dingley Village,47
+Mitsubishi,Challenger 30th Anniversary 4x4,SUV,2011,"$13,999",4WD,2.5 L I4 Turbocharged,Diesel,Williamstown N.,24
+Renault,Kangoo Maxi,Panel Van,2018,"$15,888",FF,1.5 L I4 Turbocharged,Diesel,Dandenong,44
+Volvo,S60 T4 Kinetic,Sedan,2015,"$15,990",FF,1.6 L I4 Turbocharged,Gasoline,Coburg North,32
+Nissan,Note e-Power,Hatchback,2020,"$15,995",FF,1.2 L I4 w/Single AC Motor,Hybrid,Point Cook,57
+Hyundai,Elantra Premium,Sedan,2012,"$16,990",FF,1.8 L I4,Gasoline,Essendon Fields,33
+Ford,Focus Sport,Hatchback,2018,"$18,990",FF,1.5 L I4 Turbocharged,Gasoline,Preston,38
+Land Rover,Discovery Sport TD4 HSE,SUV,2015,"$18,999",4WD,2.2 L I4 Turbocharged,Diesel,Albion,39
+Jaguar,XE 25T R-Sport,Sedan,2015,"$20,888",FR,2.0 L I4 Turbocharged,Gasoline,Moorabbin,31
+Toyota,Crown Hybrid Royal Saloon,Sedan,2013,"$21,995",FR,2.5 L I4 w/Single AC Motor,Hybrid,Point Cook,50
+Audi,A5 Sportback 2.0 TFSI quattro,Sedan,2012,"$22,900",4WD,2.0 L I4 Turbocharged,Gasoline,Moorabbin,31
+Peugeot,3008 Allure 1.6 THP 163 4x2,SUV,2022,"$27,590",FF,1.6 L I4 Turbocharged,Gasoline,Laverton North,32
+Holden,Trailblazer LTZ 4x4,SUV,2019,"$32,745",4WD,2.8 L I4 Turbocharged,Diesel,Ravenhall,27
+Kia Motors,Sorento Sport 4x4,SUV,2021,"$32,990",4WD,2.2 L I4 Turbocharged,Diesel,Hoppers Crossing,39
+BMW,118i M Sport,Hatchback,2020,"$33,990",FF,1.5 L I3 Turbocharged,Gasoline,Narre Warren,40
+Holden,Colorado LS Chassis Cab 4x2,Utility Truck,2020,"$34,990",FR,2.8 L I4 Turbocharged,Diesel,Derrimut,27
+BMW,320i M Sport,Sedan,2020,"$38,900",FR,2.0 L I4 Turbocharged,Gasoline,Moorabbin,37
+Volvo,S60 T5 Momentum AWD,Sedan,2019,"$43,990",4WD,2.0 L I4 Turbocharged,Gasoline,Hoppers Crossing,32
+Cupra,Formentor VZx DSG 4Drive,SUV,2023,"$44,990",4WD,2.0 L I4 Turbocharged,Gasoline,Hoppers Crossing,31
+Great Wall,Cannon Alpha Ultra Hybrid 4x4,Utility Truck,2024,"$53,990",4WD,2.0 L I4 w/Single AC Motor,Hybrid,Ringwood,24
+Honda,CR-V VTi-LX 4x4,SUV,2024,"$54,990",4WD,1.5 L I4 Turbocharged,Gasoline,Gardenvale,31
+Mercedes-Benz,S500 Maybach,Sedan,2015,"$139,800",FR,4.7 L V8 Twin Turbo,Gasoline,Berwick,27
