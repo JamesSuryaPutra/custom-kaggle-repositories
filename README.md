@@ -16,8 +16,12 @@ Current notebook projects:
 - Transfer Learning & Fine Tuning
 
 Current dataset projects:
+- '95-'98 UK Car Sales
+- 2020-2023 Worldwide Energy Consumption Statistics
+- 2023-2024 Global Rice Exports & Imports
+- 2025 Global Air Quality Index Analytics
 - Australia Shark Attacks
+- Australian Vehicle Fuel Economy Statistics
 - FIFA World Cup Finals
-- Global Rice Exports & Imports
-- UK Car Sales
 - US Used Car Prices
+- Worldwide Extreme Climate Statistics
