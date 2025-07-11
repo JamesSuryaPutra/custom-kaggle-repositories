@@ -1,7 +1,9 @@
 # Kaggle Custom Notebooks & Datasets
 
+
 User:
 JamesSuryaPutra
+
 
 Current notebook projects:
 - BigQuery Data Generation
@@ -14,6 +16,9 @@ Current notebook projects:
 - Regression with an Insurance Dataset
 - Speech Recognition
 - Transfer Learning & Fine Tuning
+- Unet3D Generation with YOLO Version 11
+- YOLO11 Demonstration
+
 
 Current dataset projects:
 - '95-'98 UK Car Sales
